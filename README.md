@@ -1,10 +1,10 @@
-# 👨‍💻 Nadhem Hmida - Ingénieur Full-Stack
+# 👨‍💻 Nadhem Hmida - Full-Stack Engineer
 
-> 🎓 Étudiant Ingénieur en Génie Logiciel @ESPRIT | 🚀 Développeur Full-Stack passionné par les architectures microservices et l'IA
+> 🎓 Software Engineering Student @ESPRIT | 🚀 Full-Stack Developer passionate about microservices architecture and AI
 
 ---
 
-## 📫 Coordonnées
+## 📫 Contact
 
 - 📱 +216 99 455 882
 - 📧 hmidanadhem2@gmail.com
@@ -13,19 +13,19 @@
 
 ---
 
-## 🎯 À propos
+## 🎯 About Me
 
-Ingénieur en génie logiciel en 4ème année à **ESPRIT**, spécialisé dans le développement **full-stack** et la conception d'applications **robustes** et **scalables**. 
+Software Engineering student in my 4th year at **ESPRIT**, specializing in **full-stack development** and building **robust**, **scalable** applications.
 
-Je transforme des idées complexes en produits concrets - des architectures **microservices** aux applications **web** et **desktop** interactives. Mon approche allie **rigueur technique** et **créativité** pour livrer des solutions innovantes.
+I transform complex ideas into concrete products - from **microservices architectures** to interactive **web** and **desktop** applications. My approach combines **technical rigor** with **creativity** to deliver innovative solutions.
 
-### 🎓 Formation
-- **Diplôme d'Ingénieur en Informatique** - ESPRIT (2022-2027)
-- **Baccalauréat Technique** - Lycée Abou Kacem Chebbi (2021)
+### 🎓 Education
+- **Software Engineering Degree** - ESPRIT (2022-2027)
+- **Technical Baccalaureate** - Abou Kacem Chebbi High School (2021)
 
 ---
 
-## 🛠️ Stack Technique
+## 🛠️ Tech Stack
 
 ### Backend
 <div align="center">
@@ -47,7 +47,7 @@ Je transforme des idées complexes en produits concrets - des architectures **mi
   <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
-### Base de données
+### Databases
 <div align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-%2300758F?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -56,7 +56,7 @@ Je transforme des idées complexes en produits concrets - des architectures **mi
   <img src="https://img.shields.io/badge/Neo4j-%23008539?style=for-the-badge&logo=neo4j&logoColor=white" />
 </div>
 
-### DevOps & Outils
+### DevOps & Tools
 <div align="center">
   <img src="https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Prometheus-%23E6526F?style=for-the-badge&logo=prometheus&logoColor=white" />
@@ -66,7 +66,7 @@ Je transforme des idées complexes en produits concrets - des architectures **mi
   <img src="https://img.shields.io/badge/Maven-%23C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
 </div>
 
-### Langages
+### Programming Languages
 <div align="center">
   <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -76,45 +76,45 @@ Je transforme des idées complexes en produits concrets - des architectures **mi
 
 ---
 
-## 💼 Expérience Professionnelle
+## 💼 Professional Experience
 
-### 🏢 ESPRIT - Stagiaire Ingénieur Full-Stack & IA
-**Juillet 2024 - Août 2024** | Ariana, Tunisie
+### 🏢 ESPRIT - Full-Stack & AI Engineering Intern
+**July 2024 - August 2024** | Ariana, Tunisia
 
-Développement d'un **système complet de planification et réservation de salles** pour les cours et soutenances :
+Developed a **complete room planning and reservation system** for courses and presentations:
 
-- ✅ Conception de 3 composants intégrés pour la gestion de l'emploi du temps
-- ✅ Backend REST avec **Spring Boot** + Interface web réactive en **React.js**
-- ✅ Intégration d'un modèle d'**IA en Python** pour l'optimisation automatique des plannings
-- ✅ Travail en autonomie sur tout le cycle (conception → développement → tests)
+- ✅ Designed 3 integrated components for schedule management
+- ✅ REST backend with **Spring Boot** + Reactive web interface in **React.js**
+- ✅ Integrated an **AI model in Python** for automatic schedule optimization
+- ✅ Worked independently on the entire cycle (design → development → testing)
 
-**Technologies :** Spring Boot, React.js, Python, REST API
+**Technologies:** Spring Boot, React.js, Python, REST API
 
 ---
 
-## 🚀 Projets Phares
+## 🚀 Featured Projects
 
 ### 🎮 Portal Quest
-**Jeu 2D avec Arduino** | C, SDL, Arduino, GitHub
-- Développement d'un jeu 2D avec gestion de graphismes et mécaniques d'énigmes
-- Intégration d'éléments interactifs dynamiques basés sur Arduino
+**2D Game with Arduino** | C, SDL, Arduino, GitHub
+- Developed a 2D game with graphics management and puzzle mechanics
+- Integrated dynamic interactive elements based on Arduino
 
 ### 🎨 Artix
-**Application Desktop IA pour la gestion d'œuvres d'art** | C++, Qt Creator, SQL Server
-- Application intelligente de gestion de collections artistiques
-- Interface desktop moderne avec base de données SQL Server
+**Desktop AI Application for Art Management** | C++, Qt Creator, SQL Server
+- Intelligent application for managing art collections
+- Modern desktop interface with SQL Server database
 
 ### 🎪 Eventora
-**Application multi-clients de gestion d'événements** | Java, PHP, HTML5, CSS, JavaScript, MySQL
-- Solution complète pour la gestion d'événements
-- Architecture multi-clients avec interface web et desktop
+**Multi-client Event Management Application** | Java, PHP, HTML5, CSS, JavaScript, MySQL
+- Complete solution for event management
+- Multi-client architecture with web and desktop interfaces
 
 ### 📚 Jungle in English (EnglishFlow)
-**Plateforme e-learning microservices** | Spring Boot 3, Angular 18, PostgreSQL, Docker
-- Architecture **microservices** pour l'apprentissage de l'anglais
-- Cours interactifs, messagerie temps réel (**WebSocket**), gamification
-- Sécurité avec **JWT/OAuth2**
-- Déploiement **Docker**
+**Microservices-based E-learning Platform** | Spring Boot 3, Angular 18, PostgreSQL, Docker
+- **Microservices architecture** for English learning platform
+- Interactive courses, real-time messaging (**WebSocket**), gamification
+- Security with **JWT/OAuth2**
+- **Docker** deployment
 
 ---
 
@@ -124,24 +124,24 @@ Développement d'un **système complet de planification et réservation de salle
 
 ---
 
-## 🌐 Langues
+## 🌐 Languages
 
-- 🇹🇳 **Arabe** - Langue maternelle
-- 🇬🇧 **Anglais** - Niveau professionnel
-- 🇫🇷 **Français** - Niveau professionnel
-
----
-
-## 💡 Qualités
-
-- ✅ Ponctuel & Organisé
-- ✅ Créatif & Ambitieux
-- ✅ Communicatif & Curieux
-- ✅ Rigueur technique & esprit d'équipe
+- 🇹🇳 **Arabic** - Native
+- 🇬🇧 **English** - Full Professional
+- 🇫🇷 **French** - Full Professional
 
 ---
 
-## 📈 Statistiques GitHub
+## 💡 Strengths
+
+- ✅ Punctual & Organized
+- ✅ Creative & Ambitious
+- ✅ Communicative & Curious
+- ✅ Technical rigor & teamwork
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
 
@@ -153,21 +153,21 @@ Développement d'un **système complet de planification et réservation de salle
 
 ---
 
-## 🤝 Contact
+## 🤝 Let's Connect
 
-> 💬 **Actuellement à la recherche d'un stage / PFE en génie logiciel**
+> 💬 **Currently seeking an internship / Final Year Project in software engineering**
 
-N'hésitez pas à me contacter pour discuter de projets ambitieux ou d'opportunités de collaboration !
+Feel free to reach out to discuss ambitious projects or collaboration opportunities!
 
 - 📧 **Email:** hmidanadhem2@gmail.com
-- 📱 **Téléphone:** +216 99 455 882
+- 📱 **Phone:** +216 99 455 882
 - 🔗 **LinkedIn:** [hmida-nadhem](https://www.linkedin.com/in/hmida-nadhem)
 
 ---
 
 <div align="center">
 
-### ⚡ "Transformer des idées en produits concrets - Architecture, Innovation, Excellence"
+### ⚡ "Transforming ideas into concrete products - Architecture, Innovation, Excellence"
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hmida-nadhem)
 [![Email](https://img.shields.io/badge/Email-Contact-%23D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hmidanadhem2@gmail.com)
