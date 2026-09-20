@@ -76,48 +76,6 @@ I transform complex ideas into concrete products - from **microservices architec
 
 ---
 
-## 💼 Professional Experience
-
-### 🏢 ESPRIT - Full-Stack & AI Engineering Intern
-**July 2024 - August 2024** | Ariana, Tunisia
-
-Developed a **complete room planning and reservation system** for courses and presentations:
-
-- ✅ Designed 3 integrated components for schedule management
-- ✅ REST backend with **Spring Boot** + Reactive web interface in **React.js**
-- ✅ Integrated an **AI model in Python** for automatic schedule optimization
-- ✅ Worked independently on the entire cycle (design → development → testing)
-
-**Technologies:** Spring Boot, React.js, Python, REST API
-
----
-
-## 🚀 Featured Projects
-
-### 🎮 Portal Quest
-**2D Game with Arduino** | C, SDL, Arduino, GitHub
-- Developed a 2D game with graphics management and puzzle mechanics
-- Integrated dynamic interactive elements based on Arduino
-
-### 🎨 Artix
-**Desktop AI Application for Art Management** | C++, Qt Creator, SQL Server
-- Intelligent application for managing art collections
-- Modern desktop interface with SQL Server database
-
-### 🎪 Eventora
-**Multi-client Event Management Application** | Java, PHP, HTML5, CSS, JavaScript, MySQL
-- Complete solution for event management
-- Multi-client architecture with web and desktop interfaces
-
-### 📚 Jungle in English (EnglishFlow)
-**Microservices-based E-learning Platform** | Spring Boot 3, Angular 18, PostgreSQL, Docker
-- **Microservices architecture** for English learning platform
-- Interactive courses, real-time messaging (**WebSocket**), gamification
-- Security with **JWT/OAuth2**
-- **Docker** deployment
-
----
-
 ## 🏆 Certifications
 
 - 🎖️ **Neo4j Fundamentals** - Neo4j
