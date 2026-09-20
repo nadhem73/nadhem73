@@ -15,14 +15,12 @@
 
 ## 🎯 About Me
 
-Software Engineering student in my 4th year at **ESPRIT**, specializing in **full-stack development** and building **robust**, **scalable** applications.
-
-I transform complex ideas into concrete products - from **microservices architectures** to interactive **web** and **desktop** applications. My approach combines **technical rigor** with **creativity** to deliver innovative solutions.
+Software Engineer specializing in full-stack development, I design modern, robust, scalable, and innovative software solutions, combining technical rigor with creativity.
+With experience working on a variety of projects, particularly involving microservices architectures, web development, and the integration of AI-based solutions, I am seeking a software engineering position or a final-year graduation internship (PFE) within an innovative European company.
+Passionate about emerging technologies, I aim to contribute to ambitious projects while continuing to develop my technical and professional skills.
 
 ### 🎓 Education
 - **Software Engineering Degree** - ESPRIT (2022-2027)
-- **Technical Baccalaureate** - Abou Kacem Chebbi High School (2021)
-
 ---
 
 ## 🛠️ Tech Stack
