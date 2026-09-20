@@ -7,7 +7,7 @@
 ## 📫 Contact
 
 - 📱 +216 99 455 882
-- 📧 hmidanadhem2@gmail.com
+- 📧 nadhem.hmida.dev@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/hmida-nadhem)
 - 💼 [GitHub](https://github.com/nadhem73)
 
@@ -159,7 +159,7 @@ Developed a **complete room planning and reservation system** for courses and pr
 
 Feel free to reach out to discuss ambitious projects or collaboration opportunities!
 
-- 📧 **Email:** hmidanadhem2@gmail.com
+- 📧 **Email:** nadhem.hmida.dev@gmail.com
 - 📱 **Phone:** +216 99 455 882
 - 🔗 **LinkedIn:** [hmida-nadhem](https://www.linkedin.com/in/hmida-nadhem)
 
