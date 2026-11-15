@@ -125,6 +125,12 @@ Arabic (native) · French (full professional) · English (full professional)
 ---
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=nadhem73&show_icons=true&hide_border=true&theme=default" alt="GitHub stats">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadhem73&layout=compact&hide_border=true&theme=default" alt="Top languages">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nadhem73&theme=github_dark">
+    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nadhem73&theme=github" alt="GitHub stats">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nadhem73&theme=github_dark">
+    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nadhem73&theme=github" alt="Top languages by commit">
+  </picture>
 </p>
